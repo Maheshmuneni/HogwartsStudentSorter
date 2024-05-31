@@ -1,6 +1,6 @@
 # "Hogwarts Student Sorter: CSV-Based House Assignment and Grade Calculation"
 
-#### Video Demo:
+#### Video Demo:   https://youtu.be/m9_WcdffxMU
 
 #### Description:
 
@@ -25,7 +25,7 @@ The project consists of the following files:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/code50/168655717/blob/30665fbca3c80673a29865e1d03b073ba32c8871/project
+   git clone  https://github.com/Maheshmuneni/HogwartsStudentSorter
    ```
 
 2. **Install dependencies** (if any):

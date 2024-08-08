@@ -1,7 +1,5 @@
 # "Hogwarts Student Sorter: CSV-Based House Assignment and Grade Calculation"
 
-#### Video Demo:   https://youtu.be/m9_WcdffxMU
-
 #### Description:
 
 ## Overview
